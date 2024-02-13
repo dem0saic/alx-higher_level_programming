@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# base.py
+"""base.py"""
 """Defines a base model class."""
 import json
 import csv
